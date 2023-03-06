@@ -1,0 +1,17 @@
+D:\modul2_1302190044\bin\Debug\net6.0-windows\modul2_1302190044.exe
+D:\modul2_1302190044\bin\Debug\net6.0-windows\modul2_1302190044.deps.json
+D:\modul2_1302190044\bin\Debug\net6.0-windows\modul2_1302190044.runtimeconfig.json
+D:\modul2_1302190044\bin\Debug\net6.0-windows\modul2_1302190044.dll
+D:\modul2_1302190044\bin\Debug\net6.0-windows\modul2_1302190044.pdb
+D:\modul2_1302190044\obj\Debug\net6.0-windows\modul2_1302190044.csproj.AssemblyReference.cache
+D:\modul2_1302190044\obj\Debug\net6.0-windows\modul2_1302190044.Form1.resources
+D:\modul2_1302190044\obj\Debug\net6.0-windows\modul2_1302190044.csproj.GenerateResource.cache
+D:\modul2_1302190044\obj\Debug\net6.0-windows\modul2_1302190044.GeneratedMSBuildEditorConfig.editorconfig
+D:\modul2_1302190044\obj\Debug\net6.0-windows\modul2_1302190044.AssemblyInfoInputs.cache
+D:\modul2_1302190044\obj\Debug\net6.0-windows\modul2_1302190044.AssemblyInfo.cs
+D:\modul2_1302190044\obj\Debug\net6.0-windows\modul2_1302190044.csproj.CoreCompileInputs.cache
+D:\modul2_1302190044\obj\Debug\net6.0-windows\modul2_1302190044.dll
+D:\modul2_1302190044\obj\Debug\net6.0-windows\refint\modul2_1302190044.dll
+D:\modul2_1302190044\obj\Debug\net6.0-windows\modul2_1302190044.pdb
+D:\modul2_1302190044\obj\Debug\net6.0-windows\modul2_1302190044.genruntimeconfig.cache
+D:\modul2_1302190044\obj\Debug\net6.0-windows\ref\modul2_1302190044.dll
